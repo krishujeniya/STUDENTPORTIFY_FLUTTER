@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956748003566",
+    "project_id": "studentportify-f9ab5",
+    "storage_bucket": "studentportify-f9ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956748003566:android:fac256f98bb2e427eddbff",
+        "android_client_info": {
+          "package_name": "com.example.student_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawCWtla_Dc0NH1awMCzipgsOnWcOQUfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
